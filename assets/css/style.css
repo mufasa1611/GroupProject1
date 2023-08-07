@@ -82,7 +82,7 @@
     
     .price{
         display: flex;
-        
+        text-shadow: 2px 3px 5px rgba(24, 22, 22, 0.5);
         font-family: 'Fraunces', serif;
         font-size: 25px;
        text-decoration-line: underline ;
@@ -127,15 +127,15 @@
     }
 
     .card {
-        .card {
-            float: left;
-            margin-left: 20px;
+        float: left;
+        padding: 2px;
+        margin-left: 10px;
         
-      
         
-        }
         
     }
+        
+  
     
    
       @media only screen and (max-width: 735px)
@@ -183,5 +183,6 @@
         font-weight: 200;
         font-size: 28px
         }
+    
 }
     
