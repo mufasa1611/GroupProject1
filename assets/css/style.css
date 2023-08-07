@@ -130,24 +130,15 @@
         float: left;
         padding: 2px;
         margin-left: 10px;
-        
-        
-        
+                       
     }
         
-  
-    
    
-      @media only screen and (max-width: 735px)
-    {
-                        
-        
+   
+      @media only screen and (max-width: 735px){
         img{
-            
             max-width: 100%;
            
-            
-            
         }
        
             .prod, .des, .price {
@@ -161,15 +152,12 @@
             font-weight: 300;
             font-size: 29px;
     }
-}      
-      @media only screen and (max-width: 630px)
-   
-       
-{
+}    
+
+      @media only screen and (max-width: 630px){
         img {
          max-width: 100%;
-           
-            
+                    
         }
        
             .prod, .des, .price {
